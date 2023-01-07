@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working  in manual and automation testing.
-- 💬 Ask me about Java,Selenium,JUnit,TestNG,Cucumber,PostgreSQL,MySQL,API,Jenkins,AWS,HTML,CSS,Jira,JDBC,Lambda
+- 💬 Ask me about Java,JDBC,Lambda,Selenium,JUnit,TestNG,Cucumber,PostgreSQL,MySQL,API,Postman,Jenkins,AWS,HTML,CSS,Jira..
 - 📫 How to reach me:abdurrahim.akguen@gmail.com
 
 
